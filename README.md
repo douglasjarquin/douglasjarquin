@@ -1,6 +1,6 @@
 # Hi, I'm Doug 👋
 
-📍 **Davie, Florida** · ⚙️ **Director of DevOps at Zumba Fitness** · 🧰 Building **[Cofactor](https://www.cofactor.consulting/)**
+📍 **Davie, Florida** · ⚙️ **Director of DevOps at Zumba Fitness**
 
 I have been building for the web since 2004. Today I lead DevOps for a global platform and build operated software, native macOS tools, and developer infrastructure.
 
@@ -17,12 +17,9 @@ I care about systems that are fast, legible, recoverable, and have clear human o
 
 ## Start here
 
-- 🧰 **[Cofactor](https://www.cofactor.consulting/)** — a CTO for small businesses, billed like a utility. I design, build, host, and operate the software.
 - 📌 **[Pinchos](https://github.com/douglasjarquin/pinchos)** — declarative, native macOS menu-bar items from one TOML file; Starship for the menu bar.
 - 🎙️ **[Oigo](https://github.com/douglasjarquin/oigo)** — private, on-device macOS dictation with durable local history and optional Apple Foundation Models cleanup.
-- 🛟 **[niceuptime](https://www.niceuptime.com/)** — uptime monitoring, incident evidence, status pages, and on-call paging for small teams.
 - 🕹️ **[SF2 Themes](https://github.com/douglasjarquin/sf2-themes)** — a full dark-and-light Street Fighter II-inspired theme pack for WezTerm, Herdr, Neovim, and Codex, plus a playable ASCII cabinet.
-- 🗄️ **[nicebaas](https://www.nicebaas.com/)** — databases, authentication, storage, and APIs for small teams, operated by people who answer the phone.
 
 ## How I work
 
@@ -45,4 +42,3 @@ I write about web development, programming, operations, and the tools I use at *
 
 [![Website](https://img.shields.io/badge/-douglasjarquin.com-000000?style=flat-square&logo=safari&logoColor=white)](https://www.douglasjarquin.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasjarquin/)
-[![Cofactor](https://img.shields.io/badge/-Cofactor-111827?style=flat-square)](https://www.cofactor.consulting/)
