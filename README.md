@@ -42,3 +42,4 @@ I write about web development, programming, operations, and the tools I use at *
 
 [![Website](https://img.shields.io/badge/-douglasjarquin.com-000000?style=flat-square&logo=safari&logoColor=white)](https://www.douglasjarquin.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasjarquin/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/douglasjarquin)
