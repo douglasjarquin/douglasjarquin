@@ -18,7 +18,9 @@ I care about systems that are fast, legible, recoverable, and have clear human o
 ## Start here
 
 - 📌 **[Pinchos](https://github.com/douglasjarquin/pinchos)** — declarative, native macOS menu-bar items from one TOML file; Starship for the menu bar.
-- 🎙️ **[Oigo](https://github.com/douglasjarquin/oigo)** — private, on-device macOS dictation with durable local history and optional Apple Foundation Models cleanup.
+- ➕ **[Sum](https://github.com/douglasjarquin/sum)** — dispatch approved work to isolated agents; a small Herdr-native distro with coordinator, workers, and verification.
+- 📊 **[Remainder](https://github.com/douglasjarquin/remainder)** — one-shot Go CLI to read remaining LLM quota from local credentials; Codex, Claude, Grok, and Cursor.
+- 🐹 **[Go Toon](https://github.com/douglasjarquin/go-toon)** — community-driven Go implementation of TOON (Token-Oriented Object Notation).
 - 🕹️ **[SF2 Themes](https://github.com/douglasjarquin/sf2-themes)** — a full dark-and-light Street Fighter II-inspired theme pack for WezTerm, Herdr, Neovim, and Codex, plus a playable ASCII cabinet.
 
 ## How I work
